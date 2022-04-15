@@ -1,5 +1,7 @@
 package gestion_note;
 
 public class etudiant {
- f 
+	private int id;
+	private String nom;
+	private double note;
 }
